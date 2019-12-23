@@ -13,6 +13,7 @@ public class TestNGdataprdemowithxl {
   public Object[][] Loginusingxldata() {
    Object[][] values=ReadExcel.getData("sheet1");
    return values;
-    };
-  }
+    }
+};
+  
 
